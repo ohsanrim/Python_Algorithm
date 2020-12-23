@@ -6,7 +6,6 @@ Created on 2020. 12. 21.
 n = int(input())
 km = input().split()
 costArr = input().split()
-oil = 0  #몇리터 있는지
 costMin=1000000000
 sumCost=0
 for i in range(len(km)):
